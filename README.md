@@ -5,7 +5,7 @@ The mlrun/demos repository provides demos that implement full end-to-end ML use-
 #### In This Document
 
 - [Overview](#overview)
-  - [General ML Workflow](#general-ml-workflow)
+- [General ML Workflow](#general-ml-workflow)
 - [Prerequisites](#prerequisites)
 - [Mask Detection Demo](#mask-detection-demo)
 - [scikit-learn Demo: Full AutoML Pipeline](#demo-scikit-learn)
